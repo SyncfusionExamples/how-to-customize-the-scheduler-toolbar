@@ -1,0 +1,7 @@
+.e-today{
+    display: none !important;
+}
+
+.e-toolbar-item.e-custom {
+    pointer-events: none;
+}

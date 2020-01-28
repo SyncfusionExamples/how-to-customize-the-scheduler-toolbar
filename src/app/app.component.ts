@@ -1,4 +1,4 @@
-import { Component, ViewChild } from '@angular/core';
+import { Component, ViewChild, ViewEncapsulation } from '@angular/core';
 import {
   TimelineViewsService, ResizeService, DragAndDropService, EventSettingsModel,
   ScheduleComponent, ActionEventArgs
@@ -10,6 +10,7 @@ import { extend } from '@syncfusion/ej2-base';
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
+  encapsulation: ViewEncapsulation.None,
   providers: [TimelineViewsService, ResizeService, DragAndDropService]
 })
 export class AppComponent {
