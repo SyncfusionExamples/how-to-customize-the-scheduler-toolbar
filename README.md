@@ -1,6 +1,6 @@
 # Syncfusion Angular 8 Scheduler Project
 
-A project that helps you to avoid infinte loop on applying method in `workDays` property binding with code snippet.
+A project that helps you to customize the Scheduler toolbar items with code snippet.
 
 ## Scheduler features covered in this Project
 
@@ -10,12 +10,12 @@ This is an Angular 8 project created using [Angular CLI](https://github.com/angu
 
 ## How to run this application?
 
-To run this application, you need to first clone the `how-to-prevent-infinite-loop-on-workDays-property-binding` repository and then navigate to its appropriate path where it has been located in your system.
+To run this application, you need to first clone the `how-to-customize-the-scheduler-toolbar` repository and then navigate to its appropriate path where it has been located in your system.
 
 To do so, open the command prompt and run the below commands one after the other.
 
 ```
-git clone https://github.com/SyncfusionSamples/how-to-prevent-infinite-loop-on-workDays-property-binding angular-8-scheduler
+git clone https://github.com/SyncfusionExamples/how-to-customize-the-scheduler-toolbar angular-8-scheduler
 cd angular-8-scheduler
 ```
 
